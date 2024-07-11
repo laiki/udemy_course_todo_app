@@ -1,0 +1,51 @@
+{
+    "sidebar_changelanguage":"Sprache ändern",
+    "sidebar_darktheme":"Dunkles theme",
+    "sidebar_lighttheme":"Helles theme",
+    "sidebar_logout":"Ausloggen",
+    "loginscreen_welcome_text":"Wilkommen",
+    "loginscreen_email_label":"Email",
+    "loginscreen_password_label":"Passwort",
+    "loginscreen_loginbtn_text":"Einloggen",
+    "loginscreen_registration_text1": "Account noch nicht vorhanden? ",
+    "login_screen_registration_text2":"Hier registrieren",
+    "login_screen_error_base":"Fehler beim Einloggen",
+    "login_screen_error_invalid_credentials":"Falsches Email oder Passwort",
+    "login_screen_error_network_error":"Netzwerkfehler",
+
+    "newtodo_dialog_title":"Neues Todo",
+    "newtodo_dialog_name_label":"Name",
+    "newtodo_dialog_duedate_label":"Erledigen bis",
+    "newtodo_dialog_priority_label":"Priorität",
+    "newtodo_dialog_confirm":"Bestätigen",
+    "newtodo_dialog_cancel":"Abbrechen",
+
+    "edittodo_dialog_title":"Todo bearbeiten",
+
+    "deletetodo_dialog_title":"Todo löschen",
+    "deletetodo_dialog_hint":"Sind Sie sicher, dass Sie das Todo löschen möchten?",
+    "deletetodo_dialog_confirm":"Bestätigen",
+    "deletetodo_dialog_cancel":"Abbrechen",
+
+    "todo_duedate":"Erledigen bis",
+    "todo_priority_high":"Hoch",
+    "todo_priority_medium":"Medium",
+    "todo_priority_low":"Niedrig",
+    "todo_priority_none":"Keine",
+
+    "tags_row_addtag":"Tag hinzufügen",
+
+    "newtag_dialog_title":"Neues Tag",
+    "newtag_dialog_name_label":"Name",
+    "newtag_dialog_color":"Farbe",
+    "newtag_dialog_confirm":"Bestätigen",
+    "newtag_dialog_cancel":"Abbrechen",
+
+    "edittag_dialog_title":"Tag bearbeiten",
+
+    "color_picker_label":"Farbe",
+    "color_picker_title":"Wähle eine Farbe aus!",
+    "color_picker_confirm":"Bestätigen"
+
+
+}

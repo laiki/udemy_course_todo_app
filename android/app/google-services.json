@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499294152092",
+    "project_id": "todo-udemy-arjan",
+    "storage_bucket": "todo-udemy-arjan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499294152092:android:cb097ab2fb8d2593001459",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBok2ynAruxyH5e0212MXocOql3YuRJJSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
