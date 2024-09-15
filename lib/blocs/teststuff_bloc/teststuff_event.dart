@@ -7,12 +7,12 @@ class  TeststuffEvent_1 extends TeststuffEvent {
   String sTest;
   int iValue; 
 
- TeststuffEvent_1(this.sTest, this.iValue); 
+  TeststuffEvent_1(this.sTest, this.iValue); 
 }
 class  TeststuffEvent_2 extends TeststuffEvent {
   String sTest;
   double dValue; 
 
- TeststuffEvent_2(this.sTest, this.dValue); 
+  TeststuffEvent_2(this.sTest, this.dValue); 
 }
 

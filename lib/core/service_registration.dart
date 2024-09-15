@@ -1,11 +1,13 @@
 import 'package:get_it/get_it.dart';
 import 'package:todo_app/domain/interfaces/chatbot_interface.dart';
 import 'package:todo_app/domain/interfaces/tag_db_interface.dart';
+import 'package:todo_app/domain/interfaces/teststuff_interface.dart';
 import 'package:todo_app/domain/interfaces/todo_db_interface.dart';
 import 'package:todo_app/domain/interfaces/vector_db_interface.dart';
 import 'package:todo_app/domain/services/chatbot_service.dart';
 import 'package:todo_app/domain/services/langchain_service.dart';
 import 'package:todo_app/domain/services/tag_firestore_service.dart';
+import 'package:todo_app/domain/services/teststuff_service.dart';
 import 'package:todo_app/domain/services/todo_firestore_service.dart';
 import 'package:todo_app/domain/services/vector_db_service.dart';
 
@@ -25,5 +27,5 @@ Future init() async{
   getIt.registerLazySingleton<VectorDBInterface>(() => VectorDBService());
   getIt.registerLazySingleton<ChatBotInterface>(() => ChatbotService());
 
-
+  getIt.registerLazySingleton<TeststuffInterface>(() => TeststuffService());
 }
