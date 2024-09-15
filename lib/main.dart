@@ -15,6 +15,8 @@ import 'package:todo_app/core/themes/dark_theme.dart';
 import 'package:todo_app/core/themes/light_theme.dart';
 import 'presentation/screens/login_screen.dart';
 
+// überflüssiger Kommentar
+// 
 void main() async {
 
   var delegate = await LocalizationDelegate.create(
